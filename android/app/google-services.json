@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "363963407964",
+    "project_id": "waliifpay-dd5e6",
+    "storage_bucket": "waliifpay-dd5e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363963407964:android:fe544a6be1f08232d0d099",
+        "android_client_info": {
+          "package_name": "com.waliifpay.waliifpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363963407964-dmbua075du94hn6s4dnd0l1vot3jk272.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waliifpay.waliifpay",
+            "certificate_hash": "c8e076d41998cf8006973d7c31cb26417787ef53"
+          }
+        },
+        {
+          "client_id": "363963407964-7cv3rv3cpcfd1d5o18i4em6kdomf0vtq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa7HVe8K6kERtSKsIU4du0K3Jx34xNQPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363963407964-7cv3rv3cpcfd1d5o18i4em6kdomf0vtq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363963407964:android:c5dc153409178617d0d099",
+        "android_client_info": {
+          "package_name": "com.waliiftransport.waliif_pay_agent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363963407964-3p580o76uu6ssbhgrjfb9k3rhrbf9f2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waliiftransport.waliif_pay_agent",
+            "certificate_hash": "c8e076d41998cf8006973d7c31cb26417787ef53"
+          }
+        },
+        {
+          "client_id": "363963407964-7cv3rv3cpcfd1d5o18i4em6kdomf0vtq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa7HVe8K6kERtSKsIU4du0K3Jx34xNQPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363963407964-7cv3rv3cpcfd1d5o18i4em6kdomf0vtq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363963407964:android:e60b44d13f7e3f60d0d099",
+        "android_client_info": {
+          "package_name": "com.waliiftransport.waliif_pay_merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363963407964-reonpbef0csjq7in8bt36lc118a0bp4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waliiftransport.waliif_pay_merchant",
+            "certificate_hash": "c8e076d41998cf8006973d7c31cb26417787ef53"
+          }
+        },
+        {
+          "client_id": "363963407964-7cv3rv3cpcfd1d5o18i4em6kdomf0vtq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa7HVe8K6kERtSKsIU4du0K3Jx34xNQPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363963407964-7cv3rv3cpcfd1d5o18i4em6kdomf0vtq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
