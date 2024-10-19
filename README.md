@@ -1,4 +1,4 @@
-# qrpay
+# waliifpay
 
 A new Flutter project.
 
